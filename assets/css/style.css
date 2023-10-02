@@ -224,3 +224,30 @@ nav a {
 .footer {
   text-align: center;
 }
+
+/* General Description Div Styles */
+.general-description {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 5px;
+  background-color: #fff; /* White background */
+}
+
+.general-description h3 {
+  color: #1877f2; /* Facebook Blue for subheadings */
+  margin-bottom: 10px;
+}
+
+.general-description p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.general-description ul {
+  padding-left: 20px;
+}
+
+.general-description ul li {
+  margin-bottom: 10px;
+}
