@@ -2,193 +2,221 @@
 
 /* Define your color scheme */
 body {
-    background-color: #FFFFFF; /* White background */
-    color: #000000; /* Black text */
+  background-color: #ffffff; /* White background */
+  color: #000000; /* Black text */
 }
 
 /* Header Styles */
 header {
-    background-color: #1877F2; /* Facebook Blue */
-    color: #FFFFFF; /* White text */
-    padding: 20px;
+  background-color: #1877f2; /* Facebook Blue */
+  color: #ffffff; /* White text */
+  padding: 20px;
 }
 
 nav ul {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 20px;
+  display: inline;
+  margin-right: 20px;
 }
 
 nav a {
-    text-decoration: none;
-    color: #FFFFFF;
+  text-decoration: none;
+  color: #ffffff;
 }
 
 /* Hero Section Styles */
 .hero {
-    text-align: center;
-    padding: 100px;
+  text-align: center;
+  padding: 100px;
 }
 
 .cta-button {
-    background-color: #F15A22; /* Code Orange */
-    color: #FFFFFF;
-    padding: 10px 20px;
-    border: none;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
+  background-color: #f15a22; /* Code Orange */
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 /* Tips & Guidelines Section Styles */
 .tips {
-    padding: 20px;
-    background-color: #f5f5f5; /* Light gray background */
+  padding: 20px;
+  background-color: #f5f5f5; /* Light gray background */
 }
 
 .tip-section {
-    margin-bottom: 20px;
-    padding: 20px;
-    border: 1px solid #ddd; /* Gray border */
-    border-radius: 5px;
-    background-color: #fff; /* White background */
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 5px;
+  background-color: #fff; /* White background */
 }
 
 .tip-section h3 {
-    color: #1877F2; /* Facebook Blue for section headings */
+  color: #1877f2; /* Facebook Blue for section headings */
 }
 
 .tip-section p {
-    margin-top: 10px;
-    font-weight: bold;
+  margin-top: 10px;
+  font-weight: bold;
 }
 
 .tip-section ul {
-    margin-top: 10px;
-    padding-left: 20px;
+  margin-top: 10px;
+  padding-left: 20px;
 }
 
 .tip-section li {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 /* FAQ Section Styles */
 .faq {
-    padding: 20px;
-    background-color: #f5f5f5; /* Light gray background */
+  padding: 20px;
+  background-color: #f5f5f5; /* Light gray background */
 }
 
 .faq h2 {
-    color: #1877F2; /* Facebook Blue for section heading */
-    margin-bottom: 20px;
+  color: #1877f2; /* Facebook Blue for section heading */
+  margin-bottom: 20px;
 }
 
 /* FAQ Item Styles */
 .faq-item {
-    margin-bottom: 20px;
-    padding: 20px;
-    border: 1px solid #ddd; /* Gray border */
-    border-radius: 5px;
-    background-color: #fff; /* White background */
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 5px;
+  background-color: #fff; /* White background */
 }
 
 .faq-item h3 {
-    color: #333; /* Dark gray for question headings */
+  color: #333; /* Dark gray for question headings */
 }
 
 .faq-item p {
-    margin-top: 10px;
-    font-weight: bold;
+  margin-top: 10px;
+  font-weight: bold;
 }
 
 /* About Us Section Styles */
 #about-us {
-    background-color: #f5f5f5; /* Light gray background */
-    padding: 40px;
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 40px;
 }
 
 .about-us {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .about-us h2 {
-    color: #1877F2; /* Facebook Blue for section heading */
-    margin-bottom: 20px;
+  color: #1877f2; /* Facebook Blue for section heading */
+  margin-bottom: 20px;
 }
 
 .about-content {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .about-content img {
-    max-width: 100%;
-    border-radius: 50%; /* Round profile picture */
+  max-width: 100%;
+  border-radius: 50%; /* Round profile picture */
 }
 
 .about-content p {
-    margin-top: 20px;
-    font-size: 18px;
+  margin-top: 20px;
+  font-size: 18px;
 }
 
-.mission h3, .values h3 {
-    color: #333; /* Dark gray for subheadings */
-    margin-bottom: 10px;
+.mission h3,
+.values h3 {
+  color: #333; /* Dark gray for subheadings */
+  margin-bottom: 10px;
 }
 
 .values ul {
-    list-style: none;
-    padding-left: 0;
+  list-style: none;
+  padding-left: 0;
 }
 
 .values li {
-    margin-bottom: 10px;
-    font-weight: bold;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 /* Contact Us Section Styles */
 #contact-us {
-    background-color: #f5f5f5; /* Light gray background */
-    padding: 40px;
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 40px;
 }
 
 .contact-us {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .contact-us h2 {
-    color: #1877F2; /* Facebook Blue for section heading */
-    margin-bottom: 20px;
+  color: #1877f2; /* Facebook Blue for section heading */
+  margin-bottom: 20px;
 }
 
 .contact-us p {
-    font-size: 18px;
-    margin-bottom: 20px;
+  font-size: 18px;
+  margin-bottom: 20px;
 }
 
 /* Email Button Styles */
 .contact-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #1877F2; /* Facebook Blue for the button */
-    color: #fff; /* White text */
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 20px;
-    transition: background-color 0.3s ease;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1877f2; /* Facebook Blue for the button */
+  color: #fff; /* White text */
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: background-color 0.3s ease;
 }
 
 .contact-button:hover {
-    background-color: #1251a1; /* Darker blue on hover */
-    text-decoration: none;
+  background-color: #1251a1; /* Darker blue on hover */
+  text-decoration: none;
 }
 
+/* Coding Language Div Styles */
+.language {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 5px;
+  background-color: #fff; /* White background */
+}
 
+.language h3 {
+  color: #1877f2; /* Facebook Blue for language headings */
+  margin-bottom: 10px;
+}
+
+.language p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.language-link {
+  color: #1877f2; /* Facebook Blue for links */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.language-link:hover {
+  text-decoration: underline;
+}
